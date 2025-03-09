@@ -1,9 +1,178 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0" version="26.1.0">
   <diagram name="Page-1" id="vdBw4vAGLQGQbmlaI7VX">
-    <mxGraphModel>
+    <mxGraphModel dx="989" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="LC0ViqFpc_LG-uxba0pK-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LC0ViqFpc_LG-uxba0pK-2" target="LC0ViqFpc_LG-uxba0pK-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LC0ViqFpc_LG-uxba0pK-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LC0ViqFpc_LG-uxba0pK-2" target="LC0ViqFpc_LG-uxba0pK-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LC0ViqFpc_LG-uxba0pK-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LC0ViqFpc_LG-uxba0pK-2" target="LC0ViqFpc_LG-uxba0pK-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LC0ViqFpc_LG-uxba0pK-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LC0ViqFpc_LG-uxba0pK-2" target="LC0ViqFpc_LG-uxba0pK-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LC0ViqFpc_LG-uxba0pK-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LC0ViqFpc_LG-uxba0pK-2" target="LC0ViqFpc_LG-uxba0pK-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LC0ViqFpc_LG-uxba0pK-2" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="850" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LC0ViqFpc_LG-uxba0pK-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LC0ViqFpc_LG-uxba0pK-3" target="LC0ViqFpc_LG-uxba0pK-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LC0ViqFpc_LG-uxba0pK-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LC0ViqFpc_LG-uxba0pK-3" target="LC0ViqFpc_LG-uxba0pK-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LC0ViqFpc_LG-uxba0pK-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LC0ViqFpc_LG-uxba0pK-3" target="LC0ViqFpc_LG-uxba0pK-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LC0ViqFpc_LG-uxba0pK-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LC0ViqFpc_LG-uxba0pK-3" target="LC0ViqFpc_LG-uxba0pK-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LC0ViqFpc_LG-uxba0pK-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LC0ViqFpc_LG-uxba0pK-3" target="LC0ViqFpc_LG-uxba0pK-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LC0ViqFpc_LG-uxba0pK-3" value="&lt;div&gt;Agent&lt;/div&gt;&lt;div&gt;(Sri Lanka)&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="480" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LC0ViqFpc_LG-uxba0pK-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LC0ViqFpc_LG-uxba0pK-4" target="LC0ViqFpc_LG-uxba0pK-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LC0ViqFpc_LG-uxba0pK-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LC0ViqFpc_LG-uxba0pK-4" target="LC0ViqFpc_LG-uxba0pK-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LC0ViqFpc_LG-uxba0pK-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LC0ViqFpc_LG-uxba0pK-4" target="LC0ViqFpc_LG-uxba0pK-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LC0ViqFpc_LG-uxba0pK-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LC0ViqFpc_LG-uxba0pK-4" target="LC0ViqFpc_LG-uxba0pK-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LC0ViqFpc_LG-uxba0pK-4" value="&lt;div&gt;Agent&lt;/div&gt;&lt;div&gt;(Singapore)&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="110" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LC0ViqFpc_LG-uxba0pK-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LC0ViqFpc_LG-uxba0pK-5" target="LC0ViqFpc_LG-uxba0pK-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LC0ViqFpc_LG-uxba0pK-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LC0ViqFpc_LG-uxba0pK-5" target="LC0ViqFpc_LG-uxba0pK-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LC0ViqFpc_LG-uxba0pK-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LC0ViqFpc_LG-uxba0pK-5" target="LC0ViqFpc_LG-uxba0pK-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LC0ViqFpc_LG-uxba0pK-5" value="Client" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="130" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LC0ViqFpc_LG-uxba0pK-6" value="Register/Login" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="90" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LC0ViqFpc_LG-uxba0pK-7" value="View Order History" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="230" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LC0ViqFpc_LG-uxba0pK-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LC0ViqFpc_LG-uxba0pK-8" target="LC0ViqFpc_LG-uxba0pK-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LC0ViqFpc_LG-uxba0pK-57" value="extends" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LC0ViqFpc_LG-uxba0pK-56">
+          <mxGeometry x="-0.1143" y="4" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LC0ViqFpc_LG-uxba0pK-8" value="View Order Status" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="210" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LC0ViqFpc_LG-uxba0pK-9" value="Place Order" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="160" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LC0ViqFpc_LG-uxba0pK-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LC0ViqFpc_LG-uxba0pK-10" target="LC0ViqFpc_LG-uxba0pK-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LC0ViqFpc_LG-uxba0pK-58" value="extends" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LC0ViqFpc_LG-uxba0pK-55">
+          <mxGeometry x="-0.1714" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LC0ViqFpc_LG-uxba0pK-10" value="Cancel Order" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="110" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LC0ViqFpc_LG-uxba0pK-11" value="Manage Employees" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="380" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LC0ViqFpc_LG-uxba0pK-12" value="Notify Shipment Details" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="240" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LC0ViqFpc_LG-uxba0pK-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LC0ViqFpc_LG-uxba0pK-13" target="LC0ViqFpc_LG-uxba0pK-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LC0ViqFpc_LG-uxba0pK-64" value="includes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LC0ViqFpc_LG-uxba0pK-63">
+          <mxGeometry x="-0.1333" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LC0ViqFpc_LG-uxba0pK-13" value="Dispatch Package to Sri Lanka" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="240" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LC0ViqFpc_LG-uxba0pK-14" value="&lt;div&gt;Update Order Status&lt;/div&gt;&lt;div&gt;(After Purchase)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="170" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LC0ViqFpc_LG-uxba0pK-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LC0ViqFpc_LG-uxba0pK-15" target="LC0ViqFpc_LG-uxba0pK-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LC0ViqFpc_LG-uxba0pK-70" value="includes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LC0ViqFpc_LG-uxba0pK-65">
+          <mxGeometry x="-0.2" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LC0ViqFpc_LG-uxba0pK-15" value="Purchase Product" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="170" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LC0ViqFpc_LG-uxba0pK-16" value="Receive New Orders" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="100" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LC0ViqFpc_LG-uxba0pK-17" value="Manage Employees" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="760" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LC0ViqFpc_LG-uxba0pK-18" value="Update Order Status" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="690" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LC0ViqFpc_LG-uxba0pK-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LC0ViqFpc_LG-uxba0pK-19" target="LC0ViqFpc_LG-uxba0pK-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LC0ViqFpc_LG-uxba0pK-69" value="includes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LC0ViqFpc_LG-uxba0pK-67">
+          <mxGeometry x="-0.1143" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LC0ViqFpc_LG-uxba0pK-19" value="Confirm Delivery" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="690" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LC0ViqFpc_LG-uxba0pK-20" value="&lt;div&gt;Schedule Delivery&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="620" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LC0ViqFpc_LG-uxba0pK-21" value="&lt;div&gt;Update System on Package Arrival&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="550" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LC0ViqFpc_LG-uxba0pK-22" value="Receive Shipment Details" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="480" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LC0ViqFpc_LG-uxba0pK-23" value="Generate Reports" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="1130" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LC0ViqFpc_LG-uxba0pK-24" value="Manage Product Categories" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="1060" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LC0ViqFpc_LG-uxba0pK-25" value="View All Orders" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="990" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LC0ViqFpc_LG-uxba0pK-26" value="Approve/Reject Agent Registrations" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="920" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LC0ViqFpc_LG-uxba0pK-27" value="Manage User Accounts" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="850" width="140" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
