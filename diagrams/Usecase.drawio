@@ -66,15 +66,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LC0ViqFpc_LG-uxba0pK-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LC0ViqFpc_LG-uxba0pK-4" target="LC0ViqFpc_LG-uxba0pK-22">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="890" y="140" />
-              <mxPoint x="890" y="390" />
-              <mxPoint x="780" y="390" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="LC0ViqFpc_LG-uxba0pK-4" value="&lt;div&gt;Agent&lt;/div&gt;&lt;div&gt;(Singapore)&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="110" width="30" height="60" as="geometry" />
         </mxCell>
@@ -121,8 +112,20 @@
         <mxCell id="LC0ViqFpc_LG-uxba0pK-10" value="Cancel Order" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="355" y="110" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LC0ViqFpc_LG-uxba0pK-11" value="Manage Employees" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LC0ViqFpc_LG-uxba0pK-11" value="Manage Staff" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="310" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LC0ViqFpc_LG-uxba0pK-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LC0ViqFpc_LG-uxba0pK-12" target="LC0ViqFpc_LG-uxba0pK-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="445" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LC0ViqFpc_LG-uxba0pK-77" value="includes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LC0ViqFpc_LG-uxba0pK-76">
+          <mxGeometry x="0.4587" y="2" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="LC0ViqFpc_LG-uxba0pK-12" value="Notify Shipment Details" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="240" width="140" height="60" as="geometry" />
@@ -155,7 +158,7 @@
         <mxCell id="LC0ViqFpc_LG-uxba0pK-16" value="Receive New Orders" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="100" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LC0ViqFpc_LG-uxba0pK-17" value="Manage Employees" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LC0ViqFpc_LG-uxba0pK-17" value="Manage Staff" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="625" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LC0ViqFpc_LG-uxba0pK-18" value="&lt;div&gt;Update Order Status&lt;/div&gt;&lt;div&gt;(Upon Delivery)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
