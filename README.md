@@ -1,3 +1,2 @@
-# OOAD Project - Branch of Shehan K.M.
-
-Serves as the workspace of Member IT23651074 (Shehan K.M.).
+# software-design-docs
+>A collection of UML and system design diagrams, including class diagrams, use case diagrams, and other architectural representations, created using Draw.io.
