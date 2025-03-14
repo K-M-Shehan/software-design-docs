@@ -193,7 +193,7 @@
           <mxGeometry y="156" width="260" height="26" as="geometry" />
         </mxCell>
         <mxCell id="rKsyou0mUJlxg4BTuKxZ-8" value="Ticket" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#60a917;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1080" y="70" width="240" height="156" as="geometry" />
+          <mxGeometry x="1030" y="30" width="240" height="156" as="geometry" />
         </mxCell>
         <mxCell id="rKsyou0mUJlxg4BTuKxZ-13" value="+ TicketID: integer (PK)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="rKsyou0mUJlxg4BTuKxZ-8">
           <mxGeometry y="26" width="240" height="26" as="geometry" />
@@ -201,7 +201,7 @@
         <mxCell id="rKsyou0mUJlxg4BTuKxZ-9" value="+ GeneratedBy: integer (FK-&amp;gt;user)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="rKsyou0mUJlxg4BTuKxZ-8">
           <mxGeometry y="52" width="240" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="rKsyou0mUJlxg4BTuKxZ-10" value="+ Support: enum(&#39;Admin&#39;, &#39;Agent&#39;)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="rKsyou0mUJlxg4BTuKxZ-8">
+        <mxCell id="rKsyou0mUJlxg4BTuKxZ-10" value="+ SupportBy: enum(&#39;Admin&#39;, &#39;Agent&#39;)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="rKsyou0mUJlxg4BTuKxZ-8">
           <mxGeometry y="78" width="240" height="26" as="geometry" />
         </mxCell>
         <mxCell id="rKsyou0mUJlxg4BTuKxZ-12" value="+ CreatedAt: datetime" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="rKsyou0mUJlxg4BTuKxZ-8">
