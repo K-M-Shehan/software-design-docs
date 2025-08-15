@@ -1,13 +1,13 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:141.0) Gecko/20100101 Firefox/141.0" version="28.1.0">
   <diagram name="Page-1" id="VqDgL3Xh2LhGNzMud35-">
-    <mxGraphModel dx="1358" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="776" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="_iMaxltSltyhO5bxiZkw-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="30" y="80" width="590" height="420" as="geometry" />
         </mxCell>
-        <mxCell id="_iMaxltSltyhO5bxiZkw-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_iMaxltSltyhO5bxiZkw-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="670" y="80" width="590" height="420" as="geometry" />
         </mxCell>
         <mxCell id="_iMaxltSltyhO5bxiZkw-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -22,8 +22,20 @@
         <mxCell id="_iMaxltSltyhO5bxiZkw-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1310" y="540" width="590" height="420" as="geometry" />
         </mxCell>
-        <mxCell id="_iMaxltSltyhO5bxiZkw-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="170" width="330" height="200" as="geometry" />
+        <mxCell id="_iMaxltSltyhO5bxiZkw-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="257.5" y="191" width="135" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="_iMaxltSltyhO5bxiZkw-9" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;Welcome&lt;/b&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="284" y="230" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_iMaxltSltyhO5bxiZkw-12" value="username" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="281" y="270" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_iMaxltSltyhO5bxiZkw-13" value="password" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="281" y="301" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_iMaxltSltyhO5bxiZkw-14" value="login" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="279" y="330" width="91" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
