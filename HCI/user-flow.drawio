@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:141.0) Gecko/20100101 Firefox/141.0" version="28.1.0">
   <diagram name="Page-1" id="VqDgL3Xh2LhGNzMud35-">
-    <mxGraphModel dx="1509" dy="927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1509" dy="2027" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -234,6 +234,33 @@
         </mxCell>
         <mxCell id="_iMaxltSltyhO5bxiZkw-90" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;Dashboard&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1513" y="550" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_iMaxltSltyhO5bxiZkw-91" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="31" y="-380" width="590" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="_iMaxltSltyhO5bxiZkw-92" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="258.5" y="-269" width="135" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="_iMaxltSltyhO5bxiZkw-93" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;Welcome&lt;/b&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="285" y="-246" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_iMaxltSltyhO5bxiZkw-94" value="username" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="282" y="-190" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_iMaxltSltyhO5bxiZkw-95" value="password" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="282" y="-159" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_iMaxltSltyhO5bxiZkw-96" value="login" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-130" width="91" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_iMaxltSltyhO5bxiZkw-97" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="237.75" y="-210" width="172.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_iMaxltSltyhO5bxiZkw-98" value="Wrong password!&lt;br&gt;&lt;div&gt;Try again...&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="268" y="-205" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_iMaxltSltyhO5bxiZkw-99" value="try again" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="274.5" y="-155" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
